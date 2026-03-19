@@ -15,7 +15,7 @@ The machine requires at least **200ml of water** and **15g of coffee beans** to 
 3. If resources are low, use `addIngredients()` to refill.
 4. Use `showStatus()` to monitor levels at any time.
 
-## 🎓 Learning Objectives (Unit 1: Classes)
+## 🎓 Learning Objectives
 - Understanding `private` vs `public` access modifiers.
 - Implementing constructors with logic.
 - Using method delegation (calling private methods from public ones).
